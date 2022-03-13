@@ -14,8 +14,13 @@ public class ECSTest : ModuleRules
 			"Engine",
 			"InputCore",
 			"MassEntity",
-			//"MassGameplay",
-			//"MassCrowd",
+			"MassCommon",
+			"MassSpawner",
+			"MassActors",
+			"MassRepresentation",
+			"MassCrowd",
+			"StructUtils",
+			"MassLOD"
 			//"MassAI"
 
 		});
