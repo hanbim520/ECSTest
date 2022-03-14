@@ -20,8 +20,8 @@ public class ECSTest : ModuleRules
 			"MassRepresentation",
 			"MassCrowd",
 			"StructUtils",
-			"MassLOD"
-			//"MassAI"
+			"MassLOD",
+			"MassAIBehavior"
 
 		});
 
